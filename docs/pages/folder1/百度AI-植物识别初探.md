@@ -1,4 +1,13 @@
-# 基于百度AI的植物识别
+---
+title: 基于百度AI的植物识别
+date: 2020-06-03
+categories:
+ - frontEnd
+tags:
+ - 微信小程序
+ - 云开发
+---
+
 ## 百度AI
 * 全栈的AI能力，提供端到端软硬一体的应用，提供很多免费的接口，对于个人开发者学习完全够用
 * 而要使用就必需注册百度账号及创建识别应用，[百度图像识别接口文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/8k3e7f69o)里的QuickStart写得很清楚了，注意 API KEY 以及 Secret KEY是后续调用接口的关键
@@ -6,6 +15,7 @@
 * 接下来我们来对接口进行测试，你也可以使用官方文档推荐的测试方法[链接:植物识别接口文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Mk3bcxe9i)
 * 我们这里以vscode的REST Client插件为例，也是我比较推荐的，[插件链接](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)，当然可以直接在vscode里直接搜索安装
 * 安装完后我们新建一个以http为后缀的文件，然后用rest-client语法进行接口请求；这里百度ai需先用以上申请的API key和Secret获取access_token，再用access_token和图片地址调用植物识别接口返回信息，具体接口参照[链接:植物识别接口文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Mk3bcxe9i)，如下图
+
 <img src="./../../.vuepress/public/article/folder1/baiduai/restclient.png" width="400px"/>
 
 * 点击Send Request即可发送请求，注意下image的格式，图片需要base64编码、去掉编码头（data:image/png;base64,）后再进行urlencode。下面提供两个链接转换

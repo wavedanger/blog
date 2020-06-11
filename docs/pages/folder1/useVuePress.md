@@ -1,4 +1,12 @@
-# hello vuepress
+---
+title: hello vuepress
+date: 2020-06-01
+categories:
+ - 其它
+tags:
+ - vuepress
+---
+
 ## 前言
 * 记录第一次使用vuepress
 ## 参考资料

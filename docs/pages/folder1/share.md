@@ -1,7 +1,17 @@
-## 好文整理
+---
+title: 好文整理
+date: 2020-06-01
+categories:
+ - frontEnd
+tags:
+ - 文章整理
+---
+
+## 学习文章推荐
 
 ### 方向
 * [21 个建议帮助你成为一名成功的 Web 开发工程师](https://mp.weixin.qq.com/s/OkA2kvPOPm86_pxtquhE9Q)
+
 ### 移动端
 * [关于移动端适配，你必须要知道的](https://juejin.im/post/5cddf289f265da038f77696c)
 * [拿到一份设计稿，我该如何进行移动端开发？](https://juejin.im/post/5d736747e51d4561ff66688c)

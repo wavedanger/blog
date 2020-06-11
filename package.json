@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/wavedanger/blog#readme",
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.5.1",
     "moment": "^2.26.0",
     "vuepress": "^1.5.1"
   }

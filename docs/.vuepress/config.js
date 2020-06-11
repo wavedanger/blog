@@ -1,10 +1,24 @@
 module.exports = {
+  base: '/blog/',
   title: '浪险的首页',
   description: '浪险 前端 记录 快乐',
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
     ['meta', { name: 'author', content: '浪险' }],
     ['meta', { name: 'keywords', content: '浪险 vuepress 前端 记录 笔记' }]
+  ],
+  plugins: [
+    [
+      '@vuepress/last-updated',
+      {
+        transformer: (timestamp) => {
+          // 不要忘了安装 moment
+          const moment = require('moment')
+          moment.locale('zh-cn')
+          return moment(timestamp).format("LLLL")
+        }
+      }
+    ]
   ],
   themeConfig: {
     lastUpdated: '更新时间',
@@ -87,6 +101,5 @@ module.exports = {
         }
       ]
     }
-  },
-  plugins: ['@vuepress/last-updated']
+  }
 }

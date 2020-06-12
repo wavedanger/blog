@@ -7,6 +7,8 @@ isShowComments: false
 
 <hr />
 
+<img style="width: 160px" src="../../.vuepress/public/article/folder2/frontend.gif" />
+
 ::: tip
 很高兴你能来到这个页面。
 

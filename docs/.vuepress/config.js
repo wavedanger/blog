@@ -34,7 +34,7 @@ module.exports = {
           return moment(timestamp).format("LLLL")
         }
       }
-    ],
+    ]
     // ['@vuepress/back-to-top']
   ],
   themeConfig: {

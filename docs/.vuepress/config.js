@@ -1,3 +1,4 @@
+const valineConf = require("./config/secret")
 module.exports = {
   //reco 主题
   theme: 'reco',
@@ -34,7 +35,7 @@ module.exports = {
         }
       }
     ],
-    ['@vuepress/back-to-top']
+    // ['@vuepress/back-to-top']
   ],
   themeConfig: {
     type: 'blog',//reco 主题类
@@ -110,7 +111,8 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 1,
           children: [
-            ['daily.md', '喋喋不休']
+            ['daily.md', '喋喋不休'],
+            ['donate.md', '赞助支持']
           ]
         }
       ],
@@ -124,6 +126,8 @@ module.exports = {
           ]
         }
       ]
-    }
+    },
+    //评论
+    valineConfig: valineConf
   }
 }

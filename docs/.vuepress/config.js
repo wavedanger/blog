@@ -111,8 +111,7 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 1,
           children: [
-            ['daily.md', '喋喋不休'],
-            ['donate.md', '赞助支持']
+            ['daily.md', '喋喋不休']
           ]
         }
       ],

@@ -9,21 +9,15 @@ tags:
 
 ## 前言
 
-<hr/>
-
 落魄切图仔、高级API调用工程师的自我救赎
 
 ## 联系方式
-
-<hr/>
 
 * 邮箱：weibinhong2018@163.com
 * QQ：1203322195
 
 
 ## 赞助支持
-
-<hr/>
 
 <img style="width: 160px" src="../../.vuepress/public/article/folder2/frontend.gif" />
 

@@ -40,4 +40,5 @@ tags:
 * [奇米奇米动漫](http://qimiqimi.co/)
 * [AGE动漫](https://www.agefans.tv/)
 * [AGE动漫2](https://agefans.org/)
+* [不求人导航](https://video.bqrdh.com/) | 影视网及其它工具导航
 

@@ -34,17 +34,17 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 ## 冰川网络图片关门效果
 ### 效果图
 <style>
-  ul {
+  .p1 {
   list-style-type: none;
 }
 
-ul::after {
+.p1::after {
   content: "";
   display: block;
   clear: both;
 }
 
-ul li {
+.p1 li {
   float: left;
   width: 292px;
   height: 48px;
@@ -56,22 +56,22 @@ ul li {
   margin: 10px;
 }
 
-ul li:hover .left {
+.p1 li:hover .left {
   left: 0;
 }
 
-ul li:hover .right {
+.p1 li:hover .right {
   right: 0;
 }
 
-ul li img {
+.p1 li img {
   position: absolute;
   right: 0;
   top: 0;
   z-index: 1;
 }
 
-ul li h1 {
+.p1 li h1 {
   margin: 0;
   font-size: 30px;
   font-weight: 600;
@@ -80,14 +80,14 @@ ul li h1 {
   z-index: 1;
 }
 
-ul li p {
+.p1 li p {
   font-size: 12px;
   color: #a4a7a8;
   position: relative;
   z-index: 1;
 }
 
-.left, .right {
+.p1 .left, .right {
   z-index: 3;
   position: absolute;
   top: 0;
@@ -95,20 +95,20 @@ ul li p {
   height: 125px;
 }
 
-.left {
+.p1 .left {
   left: -240px;
   width: 240px;
 }
 
-.left-1 {
+.p1 .left-1 {
   background: #1A2934 url(https://wavedanger.github.io/blog/article/folder1/cssp1/ywz_font.png);
 }
 
-.left-2 {
+.p1 .left-2 {
   background: #1A2934 url(https://wavedanger.github.io/blog/article/folder1/cssp1/yz_font.png);
 }
 
-.right {
+.p1 .right {
   right: -120px;
   padding: 34px 0 0 21px;
   width: 99px;
@@ -116,7 +116,7 @@ ul li p {
   background-color: #4E9ED5;
 }
 
-.right a {
+.p1 .right a {
   text-decoration: none;
   display: block;
   font-size: 12px;
@@ -130,12 +130,12 @@ ul li p {
   color: #fff;
 }
 
-.right a:hover {
+.p1 .right a:hover {
   background-color: #d4af46;
   border-color: #d4af46;
 }
 </style>
-<ul>
+<ul class="p1">
   <li>
     <img src="https://wavedanger.github.io/blog/article/folder1/cssp1/ywz_game.jpg" alt="">
     <h1>影武者</h1>

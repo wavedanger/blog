@@ -87,7 +87,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
   z-index: 1;
 }
 
-.p1 .left, .right {
+.p1 .left,.p1 .right {
   z-index: 3;
   position: absolute;
   top: 0;

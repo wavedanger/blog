@@ -82,7 +82,7 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 1,
           children: [
-            ['css.md', 'css世界']
+            ['css.md', 'css动画']
           ]
         },
         {

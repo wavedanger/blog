@@ -160,3 +160,15 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 
 ### 完整代码
 [代码链接](https://codepen.io/wavedanger/pen/oNbYaRy)
+
+---
+
+## 心形动画
+### 效果图
+<!-- ![心形动画](../../.vuepress/public/article/folder1/cssheart/heart.gif) -->
+<img src="../../.vuepress/public/article/folder1/cssheart/heart.gif" alt="" width="400px">
+
+### 完整代码
+[代码链接](https://codepen.io/wavedanger/pen/MWKJQqa?editors=1100)
+
+

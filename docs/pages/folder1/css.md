@@ -165,10 +165,61 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 
 ## 心形动画
 ### 效果图
+
 <!-- ![心形动画](../../.vuepress/public/article/folder1/cssheart/heart.gif) -->
 <img src="../../.vuepress/public/article/folder1/cssheart/heart.gif" alt="" width="400px">
 
 ### 完整代码
 [代码链接](https://codepen.io/wavedanger/pen/MWKJQqa?editors=1100)
+
+---
+
+## 太极图
+### 效果图
+<style>
+.wrap{
+  position:relative;
+  width:200px;
+  height:100px;
+  background-color:white;
+  border-width:1px 1px 100px 1px;
+  border-color:black;
+  border-style:solid;
+  border-radius:50%;
+  animation:run 2s linear infinite;
+}
+.wrap::before,.wrap::after{
+   content:'';
+  width:20px;
+  height:20px;
+  position:absolute;
+  top:50%;
+  border-radius:50%;
+}
+.wrap::before{ 
+  left:0;
+  background-color:black;
+  border:40px solid white;
+}
+.wrap::after{
+  right:0;
+  background-color:white;
+  border:40px solid black;
+}
+@keyframes run{
+  0%{
+    transform:rotate(0)
+  }
+  100%{
+    transform:rotate(360deg)
+  }
+}
+</style>
+
+<div class="wrap">
+</div>
+
+### 完整代码
+[代码链接](https://codepen.io/wavedanger/pen/dyGNLxp?editors=1100)
 
 

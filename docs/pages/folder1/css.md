@@ -187,6 +187,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
   border-style:solid;
   border-radius:50%;
   animation:run 2s linear infinite;
+  margin: 20px 0;
 }
 .wrap::before,.wrap::after{
    content:'';
@@ -226,11 +227,12 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 
 ## 守望先锋英雄选择
 ### 效果图
+
+
 <style>
 .heroes{
-  background-color:#ADBEDC;
   text-align:center;
-  padding:30px;
+  margin: 20px auto;
 }
 .heroes a{
   text-decoration:none;
@@ -241,6 +243,9 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
   transition: all .1s;
     background-color:#2E2A2E;
   cursor: pointer;
+}
+.heroes a img{
+  width:150px;
 }
 .heroes a:hover{
   transform: scale(1.15);
@@ -372,3 +377,121 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 
 ### 完整代码
 [代码链接](https://codepen.io/wavedanger/pen/YzwNbrr?editors=1100)
+
+---
+
+## 贪吃蛇按钮
+### 效果图
+
+<style>
+.snake-button{
+  background-color:#0c002b;
+  padding:30px;
+  text-align:center;
+}
+.snake-button a{
+  position:relative;
+  display:inline-block;
+  padding:30px 60px;
+  text-align:center;
+  rgba(255,255,255,0.5);
+  text-decoration:none;
+  color:#1670f0;
+  font-size:30px;
+  box-shadow:0px 20px 50px rgba(0,0,0,0.5);
+  overflow:hidden;
+}
+.snake-button a::before{
+  content:"";
+  width:50%;
+  background-color:rgba(255,255,255,0.05);
+  position:absolute;
+  top:2px;
+  left:2px;
+  bottom:2px;
+}
+.snake-button a>span:nth-child(1){
+  position:absolute;
+  top:0;
+  left:0;
+  display:inline-block;
+  width:100%;
+  height:2px;
+  background:linear-gradient(to right,#0c002b,#1670f0);
+  animation:move1 1s linear infinite;
+}
+@keyframes move1{
+  0%{
+    transform:translateX(-100%)
+  }
+  100%{
+    transform:translateX(100%)
+}
+}
+.snake-button a>span:nth-child(2){
+  position:absolute;
+  top:0;
+  right:0;
+  display:inline-block;
+  width:2px;
+  height:100%;
+  background:linear-gradient(to bottom,#0c002b,#1670f0);
+  animation:move2 1s linear .5s infinite;
+}
+@keyframes move2{
+  0%{
+    transform:translateY(-100%)
+  }
+  100%{
+    transform:translateY(100%)
+}
+}
+.snake-button a>span:nth-child(3){
+  position:absolute;
+  bottom:0;
+  left:0;
+  display:inline-block;
+  width:100%;
+  height:2px;
+  background:linear-gradient(to left,#0c002b,#1670f0);
+  animation:move3 1s linear infinite;
+}
+@keyframes move3{
+  0%{
+    transform:translateX(100%)
+  }
+  100%{
+    transform:translateX(-100%)
+}
+}
+.snake-button a>span:nth-child(4){
+  position:absolute;
+  top:0;
+  left:0;
+  display:inline-block;
+  width:2px;
+  height:100%;
+  background:linear-gradient(to top,#0c002b,#1670f0);
+  animation:move4 1s linear .5s infinite;
+}
+@keyframes move4{
+  0%{
+    transform:translateY(100%)
+  }
+  100%{
+    transform:translateY(-100%)
+}
+}
+</style>
+<div class="snake-button">
+  <a href="#">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  Button
+</a>
+</div>
+
+### 完整代码
+[代码链接](https://codepen.io/wavedanger/pen/VwepjVg)

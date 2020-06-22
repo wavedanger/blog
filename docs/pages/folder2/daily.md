@@ -138,3 +138,27 @@ vuepress-theme-reco主题加了评论
 
 他们为我永不会疲倦
 :::
+
+### 0622
+今天还是整了识图小程序，加了历史记录，分享，重构了代码，用了缓存，函数化，整了拟态UI。。。
+
+提交审核看看能不能上线，祝好运
+
+<img src="./../../.vuepress/public/article/folder2/takephoto2.jpg" width="200px"/>
+<img src="./../../.vuepress/public/article/folder2/takephoto3.jpg" width="200px"/>
+
+本日音乐--[勺子](https://music.163.com/#/song?id=489997111)
+
+::: tip 勺子
+什么样的坚持可以成为坚持
+
+不会被流言打扰后渐渐迷失
+
+什么样的陪伴不会戛然而止
+
+像剧本设计的那般完美无疵
+
+什么样的故事可以成为故事
+
+不会被岁月洗礼到不为人知
+:::

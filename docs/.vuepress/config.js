@@ -19,6 +19,7 @@ module.exports = {
   description: '前端 记录 快乐',
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
+    ['link', { rel: 'stylesheet', href: "/article/font.css" }],
     ['meta', { name: 'author', content: '浪险' }],
     ['meta', { name: 'keywords', content: '浪险 vuepress 前端 记录 笔记' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]

@@ -16,12 +16,13 @@ tags:
 * [慕课网](https://www.imooc.com/)
 * [语雀](https://www.yuque.com/yuque/help/about) | 专业云端知识库
 * [FreeApi](https://www.free-api.com/) | 免费接口搬运工
+* [扩展迷](https://www.extfans.com/) | 谷歌扩展插件资源网
 
 ## 资源搜索
 * [大力盘搜索](https://www.dalipan.com/) | 大概率可搜索付费课程
 * [yandex](https://yandex.com/) | 俄罗斯提供的搜索引擎，识图准确度高
 * [电影狗](http://www.dianyinggou.com/) | 全网影视资源搜索，可查找内容相关网页索引
-* [茶杯狐]( https://www.cupfox.com/) | 全网影视资源搜索，可查找内容相关网页索引
+* [茶杯狐](https://www.cupfox.com/) | 全网影视资源搜索，可查找内容相关网页索引
 * [罗马盘](https://luomapan.com/) | 基于百度网盘的多类资源搜索
 * [Magi](https://magi.com/) | 基于AI的搜索引擎，更为精准和拓展
 
@@ -32,6 +33,8 @@ tags:
 * [neumorphism](https://neumorphism.io/) ! 2020 年最火的新拟物化设计，快速生成css
 * [apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) | 在线录屏，只需下载小插件
 * [wikihome](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) | 互联网上最值得信赖的指南网站
+* [No Design](https://nodesign.dev/) | 为不懂设计的开发者提供福音，包括图标生成，免费图标库字体等
+* [ShowDoc](https://www.showdoc.cc/) | 一个非常适合IT团队的在线API文档、技术文档工具
 
 ## 图片
 * [coolbackgrounds](https://coolbackgrounds.io/) | 快速cool背景图片生成

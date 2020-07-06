@@ -68,6 +68,8 @@ tags:
 * [FeHelper-前端快捷工具箱](https://github.com/zxlie/FeHelper)
 * [google-access-helper-谷歌访问助手](https://github.com/haotian-wang/google-access-helper)
 * [sourcegraph，方便的代码查看，类似于开发工具](https://mp.weixin.qq.com/s/SfxqdBBHxFunq3AcaLY5dg)
+### 前端常用库
+* [这几个库让你交互动效满满，告别'静态'时代](https://mp.weixin.qq.com/s/-Kpdt5trT71IYf2eQiLxBg)
 
 ---
 

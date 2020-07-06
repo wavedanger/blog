@@ -28,13 +28,15 @@ tags:
 
 ## 工具
 * [站长工具](https://tool.chinaz.com/map.aspx) | 多维度技术工具辅助
+* [apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) | 在线录屏，只需下载小插件
+* [No Design](https://nodesign.dev/) | 为不懂设计的开发者提供福音，包括图标生成，免费图标库字体等
+* [ShowDoc](https://www.showdoc.cc/) | 一个非常适合IT团队的在线API文档、技术文档工具
+
+## 前端
 * [degraeve](https://www.degraeve.com/) | 国外web工具箱，包括ASCII生成器，调色板生成器
 * [codepen](https://codepen.io/) | The best place to build, test, and discover front-end code
 * [neumorphism](https://neumorphism.io/) ! 2020 年最火的新拟物化设计，快速生成css
-* [apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) | 在线录屏，只需下载小插件
-* [wikihome](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) | 互联网上最值得信赖的指南网站
-* [No Design](https://nodesign.dev/) | 为不懂设计的开发者提供福音，包括图标生成，免费图标库字体等
-* [ShowDoc](https://www.showdoc.cc/) | 一个非常适合IT团队的在线API文档、技术文档工具
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/) | 在线REST API用于测试和原型制作
 
 ## 图片
 * [coolbackgrounds](https://coolbackgrounds.io/) | 快速cool背景图片生成
@@ -56,4 +58,5 @@ tags:
 
 ## 生活
 * [topbook](https://topbook.cc/overview) | 高效生活视频书，换一种方式get生活技能
+* [wikihome](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) | 互联网上最值得信赖的指南网站
 

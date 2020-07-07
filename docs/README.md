@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: Weibin Hong
-tagline: Never put off till tomorrow what may be done today
+heroText: 愿你自在如风
+tagline: 但去莫复问，白云无尽时
 heroImage: null
 heroImageStyle: {
   maxHeight: '200px',

@@ -249,3 +249,10 @@ vuepress-theme-reco主题加了评论
 
 我们仍旧热泪盈眶
 :::
+
+### 0707
+该不该考公呢？
+
+今天看到这片文章--[「面试」45 道牛客网 JavaScript 经典题总结（8500字）](https://mp.weixin.qq.com/s/Q7fA1ppO16P4G96YiVUShw)，不知不觉已经在牛客学习快一年了哈
+
+本日音乐--[η](https://music.163.com/#/song?id=29137871)

@@ -25,6 +25,7 @@ tags:
 * [我写CSS的常用套路](https://juejin.im/post/5e070cd9f265da33f8653f00)
 * [BAT 用一行代码实现了网页黑白显示](https://mp.weixin.qq.com/s/RzDOXV4lmKeWnAecNFyLVw)
 * [你不知道的CSS开发技巧](https://mp.weixin.qq.com/s/tl4YJDq-xfhdPaJV6O5pxw)
+* [前端程序员必须掌握之三角函数在前端动画中的应用](https://mp.weixin.qq.com/s/ZPgc9hR1-LEBwn3mnyNSww)
 ### JavaScript
 * [这才是JavaScript的本质!](https://mp.weixin.qq.com/s/WeEi8W5nZFbOFASNM8Ky9A)
 * [你可能不知道的JS开发技巧](https://mp.weixin.qq.com/s/mD_McGSEK67KiOEXanIPxw)
@@ -43,6 +44,7 @@ tags:
 * [看完这篇 HTTPS，和面试官扯皮就没问题了](https://juejin.im/post/5e6c4458518825491b11e082)
 * [如何机智地回答浏览器兼容性问题](https://juejin.im/post/5b3da006e51d4518f140edb2)
 * [前端性能优化之雅虎35条军规](https://juejin.im/post/5b73ef38f265da281e048e51)
+* [「面试」45 道牛客网 JavaScript 经典题总结（8500字）](https://mp.weixin.qq.com/s/Q7fA1ppO16P4G96YiVUShw)
 ### 开发基础
 * [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc)
 * [前端需要了解的计算机网络知识](https://juejin.im/post/5e51febde51d4526c932b390)

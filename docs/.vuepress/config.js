@@ -75,7 +75,8 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 1,
           children: [
-            ['share.md', '个人向汇总']
+            ['share.md', '个人向汇总'],
+            ['前端知识图谱.md', '前端知识图谱']
           ]
         },
         {

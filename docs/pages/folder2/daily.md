@@ -256,3 +256,10 @@ vuepress-theme-reco主题加了评论
 今天看到这片文章--[「面试」45 道牛客网 JavaScript 经典题总结（8500字）](https://mp.weixin.qq.com/s/Q7fA1ppO16P4G96YiVUShw)，不知不觉已经在牛客学习快一年了哈
 
 本日音乐--[η](https://music.163.com/#/song?id=29137871)
+
+### 0709
+跑跑停停，今晚算是跑了40分钟吧
+
+<img src="./class1/river.jpg" width="200px"/>
+
+本日音乐--[夏之风](https://music.163.com/#/song?id=479494742)

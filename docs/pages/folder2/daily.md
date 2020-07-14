@@ -219,7 +219,7 @@ vuepress-theme-reco主题加了评论
 尽管过程多残酷
 :::
 
-## 七月
+## 2020七月
 ### 0704
 本日音乐--[像](https://music.163.com/#/song?id=1445060640)
 
@@ -263,3 +263,22 @@ vuepress-theme-reco主题加了评论
 <img src="./class1/river.jpg" width="200px"/>
 
 本日音乐--[夏之风](https://music.163.com/#/song?id=479494742)
+
+### 0714
+跑跑停停，今晚算是跑了40分钟吧
+
+<img src="./class1/river.jpg" width="200px"/>
+
+本日音乐--[夏之风](https://music.163.com/#/song?id=479494742)
+
+### 0714
+
+本日音乐--[愿望](https://music.163.com/#/song?id=487587087)
+
+::: danger 愿望
+安静太多太多就没有惶恐
+
+想得太久太久也无动于衷
+
+人们太多太多都这么错过
+:::

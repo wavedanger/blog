@@ -265,15 +265,8 @@ vuepress-theme-reco主题加了评论
 本日音乐--[夏之风](https://music.163.com/#/song?id=479494742)
 
 ### 0714
-跑跑停停，今晚算是跑了40分钟吧
 
-<img src="./class1/river.jpg" width="200px"/>
-
-本日音乐--[夏之风](https://music.163.com/#/song?id=479494742)
-
-### 0714
-
-本日音乐--[愿望](https://music.163.com/#/song?id=487587087)
+本日音乐--[愿望](https://music.163.com/#/song?id=4875870875)
 
 ::: danger 愿望
 安静太多太多就没有惶恐
@@ -281,4 +274,32 @@ vuepress-theme-reco主题加了评论
 想得太久太久也无动于衷
 
 人们太多太多都这么错过
+:::
+
+### 0719
+
+字不重要，看图
+
+<img src="./class1/run.jpg" width="200px"/>
+
+本日音乐--[岛屿](https://music.163.com/#/song?id=1418131335)
+
+::: danger 岛屿
+有一个岛屿 在北极冰川
+
+那儿没有花朵 也没有失落
+
+在那个岛屿 洒满了繁星
+
+拥有我和你 再没有失落
+:::
+
+### 0720
+
+本日音乐--[麻雀](https://music.163.com/#/song?id=1407551413)
+
+::: warning 麻雀
+也许我笨蛋 飞太慢会落单
+
+太快会受伤 日子不就都这样
 :::

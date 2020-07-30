@@ -348,16 +348,10 @@ vuepress-theme-reco主题加了评论
 ></iframe>
 ```
 
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="//music.163.com/outchain/player?type=2&id=386717&auto=0&height=66"
-></iframe>
-
 ### 0730
 
-今天发现线上博客突然访问不了？
+今天发现线上博客突然访问不了？但为什么朋友可以访问！
+
+::: tip
+pages.github.com 拒绝了我们的连接请求。
+:::

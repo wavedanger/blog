@@ -348,10 +348,44 @@ vuepress-theme-reco主题加了评论
 ></iframe>
 ```
 
+<iframe
+  frameborder="no"
+  border="0"
+  marginwidth="0"
+  marginheight="0"
+  width="330"
+  height="86"
+  src="//music.163.com/outchain/player?type=2&id=386717&auto=0&height=66"
+></iframe>
+
 ### 0730
 
 今天发现线上博客突然访问不了？但为什么朋友可以访问！
 
-::: tip
+::: tip 原因
 pages.github.com 拒绝了我们的连接请求。
+:::
+
+### 0731
+
+博客又复活啦！
+
+::: tip 解决
+pages.github.com国内访问不了，之前朋友能访问是因为他挂了VPN
+
+现在我将博客放在了码云上，只要在码云直接导入github仓库再在生成gitee pages就行！
+
+唯一遗憾的是要手动更新码云上的项目，虽说只是一个按钮即可，这算是暂时的解决方案吧！
+:::
+
+本日音乐--[云野](https://music.163.com/#/song?id=1379458324)
+
+::: tip 云野
+请在春天回来好吗 我的山坡开满了花 我会亲手为你摘下 请你带回你风中的家
+
+请在夏天回来好吗 我的旷野下起了雨 我会独自站在雨里 亲吻你伤心的泪滴
+
+请在秋天回来好吗 我的梦中飘落了叶 像晚霞染红你的天 也洒满每个想你的夜
+
+请在冬天回来好吗 我的天空下起了雪 大雪落在我孤独的旷野 像你每次无言的告别
 :::

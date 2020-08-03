@@ -53,7 +53,8 @@ tags:
 * [zzz动漫视频网](http://www.zzzfun.com/)
 * [奇米奇米动漫](http://qimiqimi.co/)
 * [AGE动漫](https://www.agefans.tv/)
-* [AGE动漫2](https://agefans.org/)
+* [剧迷](https://gimy.co/)
+* [樱花动漫](http://www.yhdm.tv/)
 * [不求人导航](https://video.bqrdh.com/) | 影视网及其它工具导航
 
 ## 生活

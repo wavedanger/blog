@@ -8,8 +8,6 @@ tags:
 ---
 
 ## 梦幻西游官网走灯人
-### 资源图
-![](../../.vuepress/public/article/folder1/csswalkflash/monkey.png)
 ### 效果图
 <style>
 @keyframes move {
@@ -24,7 +22,7 @@ tags:
 <div style="
 width:200px;
 height:200px;
-background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/monkey.png) no-repeat left top;animation:move 1.4s steps(8) infinite;"></div>
+background:url(https://gitee.com/wavedanger/blog-picgo/raw/master/img/monkey.png) no-repeat left top;animation:move 1.4s steps(8) infinite;"></div>
 
 ### 完整代码
 [代码链接](https://codepen.io/wavedanger/pen/abdOEpK?editors=1100)
@@ -101,11 +99,11 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 }
 
 .p1 .left-1 {
-  background: #1A2934 url(https://wavedanger.github.io/blog/article/folder1/cssp1/ywz_font.png);
+  background: #1A2934 url(https://gitee.com/wavedanger/blog-picgo/raw/master/img/ywz_font.png);
 }
 
 .p1 .left-2 {
-  background: #1A2934 url(https://wavedanger.github.io/blog/article/folder1/cssp1/yz_font.png);
+  background: #1A2934 url(https://gitee.com/wavedanger/blog-picgo/raw/master/img/yz_font.png);
 }
 
 .p1 .right {
@@ -137,7 +135,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 </style>
 <ul class="p1">
   <li>
-    <img src="https://wavedanger.github.io/blog/article/folder1/cssp1/ywz_game.jpg" alt="">
+    <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/ywz_game.jpg" alt="">
     <h1>影武者</h1>
     <p>MMORPG</p>
      <div class="left left-1"></div>
@@ -147,7 +145,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
     </div>
   </li>
   <li>
-     <img src="https://wavedanger.github.io/blog/article/folder1/cssp1/yz_game.jpg" alt="">
+     <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/yz_game.jpg" alt="">
     <h1>远征</h1>
     <p>MMORPG</p>
      <div class="left left-2"></div>
@@ -295,7 +293,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
 
 <div class="heroes">
   <a href="https://ow.blizzard.cn/heroes/genji" class="hero">
-    <img src="https://wavedanger.github.io/blog/article/folder1/owhero/genji.png" alt="">
+    <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/genji.png" alt="">
     <span class="container">
       <span class="icon"> <svg viewBox="0 0 32 32" role="presentation" class="icon">
               <g>
@@ -314,7 +312,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
     </span>
    </a>
     <a href="https://ow.blizzard.cn/heroes/doomfist" class="hero">
-    <img src="https://wavedanger.github.io/blog/article/folder1/owhero/mo.png" alt="">
+    <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/mo.png" alt="">
     <span class="container">
       <span class="icon"><svg viewBox="0 0 32 32" role="presentation" class="icon">
             <g>
@@ -334,7 +332,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
     </span>
    </a>
   <a href="https://ow.blizzard.cn/heroes/soldier-76" class="hero">
-    <img src="https://wavedanger.github.io/blog/article/folder1/owhero/soldier-76.png" alt="">
+    <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/soldier-76.png" alt="">
     <span class="container">
       <span class="icon"><svg viewBox="0 0 32 32" role="presentation" class="icon">
             <g>
@@ -354,7 +352,7 @@ background:url(https://wavedanger.github.io/blog/article/folder1/csswalkflash/mo
     </span>
    </a>
   <a href="https://ow.blizzard.cn/heroes/mccree" class="hero">
-    <img src="https://wavedanger.github.io/blog/article/folder1/owhero/mccree.png" alt="">
+    <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/mccree.png" alt="">
     <span class="container">
       <span class="icon"><svg viewBox="0 0 32 32" role="presentation" class="icon">
             <g>

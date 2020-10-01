@@ -23,6 +23,7 @@
     "@vuepress/plugin-back-to-top": "^1.5.1",
     "moment": "^2.26.0",
     "vuepress": "^1.5.1",
+    "vuepress-plugin-image": "^1.0.4",
     "vuepress-theme-reco": "^1.4.6"
   },
   "dependencies": {}

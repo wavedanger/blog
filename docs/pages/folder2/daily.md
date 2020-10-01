@@ -412,3 +412,11 @@ github pages真的挂了，连我整的github图床都扑街了，看来得转�
 网易云外链好像复活了！
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1444781693&auto=0&height=66"></iframe>
+
+## 2020九月
+
+九月鹰飞，浪迹天涯，寻欢作乐
+
+## 2020十月
+
+### 1001

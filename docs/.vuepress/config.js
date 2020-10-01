@@ -35,6 +35,12 @@ module.exports = {
           return moment(timestamp).format("LLLL")
         }
       }
+    ],
+    [
+      'image',
+      {
+
+      }
     ]
     // ['@vuepress/back-to-top']
   ],
@@ -108,7 +114,8 @@ module.exports = {
           children: [
             ['useVuePress.md', '使用VuePress+github搭建个人博客'],
             ['百度AI-植物识别初探.md', '百度AI-植物识别初探'],
-            ['小程序简历.md', '微信小程序-个人简历']
+            ['小程序简历.md', '微信小程序-个人简历'],
+            ['PicGo图床搭建.md', 'PicGo图床搭建']
           ]
         }
       ],

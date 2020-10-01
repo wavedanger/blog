@@ -12,7 +12,7 @@ heroImageStyle: {
 }
 bgImage: '/bg.jpg'
 bgImageStyle: {
-  height: '400px'
+  height: '450px'
 }
 # actionText: 马上进入 →
 # actionLink: /pages/folder1/introduce.md

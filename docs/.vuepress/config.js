@@ -90,7 +90,8 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 1,
           children: [
-            ['css.md', 'css动画']
+            ['css.md', 'css动画'],
+            ['css布局.md', 'css布局']
           ]
         },
         {

@@ -43,6 +43,7 @@ tags:
 * [在线去背景remove.bg](https://www.remove.bg/) | 效果强大，识别人物准确率高
 * [在线ps|photopea](https://www.photopea.com/) | photoshop常用功能都有，国外大神开发
 * [在线ps|稿定设计](https://ps.gaoding.com/) | 国内版photopea，与上的区别是需登录
+* [bigjpg](https://bigjpg.com/) | AI人工智能图片放大
 
 ## 音乐
 * [audiomack](https://audiomack.com/) | 在线音乐库，只要有人上传就有得听

@@ -82,7 +82,8 @@ module.exports = {
           sidebarDepth: 1,
           children: [
             ['share.md', '个人向汇总'],
-            ['前端知识图谱.md', '前端知识图谱']
+            ['前端知识图谱.md', '前端知识图谱'],
+            ['[温故]-CSS.md', '[温故]-CSS']
           ]
         },
         {

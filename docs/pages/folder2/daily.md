@@ -419,4 +419,19 @@ github pages真的挂了，连我整的github图床都扑街了，看来得转�
 
 ## 2020十月
 
-### 1001
+### 1010
+
+克林，我来了
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=549320309&auto=1&height=66"></iframe>
+
+::: tip 克林
+克林 上路是偶然
+如鲸向海 请取笑那些苦难吧
+克林 人生是偶然
+依旧浪漫 尽管你知道后来啊
+克林 上路是偶然
+离开那些 曾吞没你的欲望吧
+克林 人生是偶然
+在自己的路上 义无反顾的狂奔吧！
+:::

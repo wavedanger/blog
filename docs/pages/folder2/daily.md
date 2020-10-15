@@ -435,3 +435,10 @@ github pages真的挂了，连我整的github图床都扑街了，看来得转�
 克林 人生是偶然
 在自己的路上 义无反顾的狂奔吧！
 :::
+
+### 1014
+
+广州大桥，我还是上来了！
+
+<video src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/%E5%B9%BF%E5%B7%9E%E5%A4%A7%E6%A1%A5.mp4" width="300px" controls></video>
+

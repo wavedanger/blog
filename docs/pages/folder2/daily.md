@@ -423,7 +423,7 @@ github pages真的挂了，连我整的github图床都扑街了，看来得转�
 
 克林，我来了
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=549320309&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=549320309&auto=0&height=66"></iframe>
 
 ::: tip 克林
 克林 上路是偶然

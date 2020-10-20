@@ -442,3 +442,8 @@ github pages真的挂了，连我整的github图床都扑街了，看来得转�
 
 <video src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/%E5%B9%BF%E5%B7%9E%E5%A4%A7%E6%A1%A5.mp4" width="300px" controls></video>
 
+### 1020
+
+一旦开始了，就义无反顾地向前冲吧！！！
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=386717&auto=0&height=66"></iframe>

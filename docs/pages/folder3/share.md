@@ -37,6 +37,12 @@ tags:
 * [codepen](https://codepen.io/) | The best place to build, test, and discover front-end code
 * [neumorphism](https://neumorphism.io/) ! 2020 年最火的新拟物化设计，快速生成css
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) | 在线REST API用于测试和原型制作
+* [caniuse](https://caniuse.com/) | "Can I use"提供了最新的浏览器支持表，能帮你检查支持台式机和移动 Web 浏览器上的前端 Web 技术。
+* [hoppscotch](https://hoppscotch.io/) | Postman 的替代品，能够帮你更快地创建 HTTP 请求，节省宝贵的开发时间，前身为Postwoman
+* [gitignore.io](https://www.toptal.com/developers/gitignore) | 帮你轻松的为自己的项目创建 .gitignore 文件
+* [1loc](https://1loc.dev/) | 206 个只需单行代码就能实现的 JavaScript 实用程序。
+* [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | 只需要设置数字以及列和行的单位，然后就会为你生成一个 CSS 网格！可以通过在框内拖动来创建放置在网格内的 div。
+* [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet) | 即使是最有经验的 CSS 开发人员，也不会总是立即找到正确的类名，这很快会使你感到绝望。该工具为你提供一些最常见的 Web 组件的命名建议，帮助你避免在 BEM 的世界中迷路。
 
 ## 图片
 * [coolbackgrounds](https://coolbackgrounds.io/) | 快速cool背景图片生成
@@ -44,6 +50,7 @@ tags:
 * [在线ps|photopea](https://www.photopea.com/) | photoshop常用功能都有，国外大神开发
 * [在线ps|稿定设计](https://ps.gaoding.com/) | 国内版photopea，与上的区别是需登录
 * [bigjpg](https://bigjpg.com/) | AI人工智能图片放大
+* [base64-image](https://www.base64-image.de/) | 将图像转换为 Base64
 
 ## 音乐
 * [audiomack](https://audiomack.com/) | 在线音乐库，只要有人上传就有得听

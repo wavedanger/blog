@@ -15,13 +15,13 @@ module.exports = {
   },
   //reco 主题
   base: '/blog/',
-  title: '浪险',
+  title: '卫兵',
   description: '前端 记录 快乐',
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
     ['link', { rel: 'stylesheet', href: "/article/font.css" }],
-    ['meta', { name: 'author', content: '浪险' }],
-    ['meta', { name: 'keywords', content: '浪险 vuepress 前端 记录 笔记' }],
+    ['meta', { name: 'author', content: '卫兵' }],
+    ['meta', { name: 'keywords', content: '卫兵 vuepress 前端 记录 笔记' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   plugins: [
@@ -46,7 +46,7 @@ module.exports = {
   ],
   themeConfig: {
     type: 'blog',//reco 主题类
-    author: '浪险',
+    author: '卫兵',
     authorAvatar: '/logo.png',//reco 右侧头像
     lastUpdated: '更新时间',
     logo: '/logo.png',
@@ -69,7 +69,7 @@ module.exports = {
     sidebar: {
       '/pages/folder1/': [
         {
-          title: '浪险',
+          title: '卫兵',
           collapsable: false, // false为默认展开菜单, 默认值true是折叠,
           sidebarDepth: 1,    //  设置侧边导航自动提取markdown文件标题的层级，默认1为h2层级
           children: [

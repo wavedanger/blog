@@ -17,6 +17,7 @@ tags:
 * [语雀](https://www.yuque.com/yuque/help/about) | 专业云端知识库
 * [FreeApi](https://www.free-api.com/) | 免费接口搬运工
 * [扩展迷](https://www.extfans.com/) | 谷歌扩展插件资源网
+* [LearnGitBranching](https://learngitbranching.js.org/?locale=zh_CN) | 可视化学习git
 
 ## 资源搜索
 * [大力盘搜索](https://www.dalipan.com/) | 大概率可搜索付费课程

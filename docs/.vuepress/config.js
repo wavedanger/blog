@@ -61,7 +61,7 @@ module.exports = {
           { text: '分享', link: '/pages/folder1/share.md', icon: 'reco-document' },
         ]
       },
-      { text: '浪记', link: '/pages/folder2/daily.md', icon: 'reco-suggestion' },
+      { text: '浪记', link: '/pages/folder2/daily2021.md', icon: 'reco-suggestion' },
       { text: '浪享', link: '/pages/folder3/share.md', icon: 'reco-three' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
       { text: 'Github', link: 'https://github.com/wavedanger', icon: 'reco-github' },
@@ -130,7 +130,8 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 1,
           children: [
-            ['daily.md', '喋喋不休']
+            ['daily2020.md', '星星点灯'],
+            ['daily2021.md', '自我驱动']
           ]
         }
       ],

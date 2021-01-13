@@ -36,3 +36,9 @@ HELLO 2021!
 
 代替我拥抱她
 :::
+
+### 0113
+
+今天长记性了！！！及时沟通！！！不犹豫！！！
+
+![小丑竟是我自己](https://gitee.com/wavedanger/blog-picgo/raw/master/img/%E5%B0%8F%E4%B8%91%E7%AB%9F%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1.jpg)

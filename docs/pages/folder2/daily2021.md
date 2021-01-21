@@ -48,3 +48,13 @@ HELLO 2021!
 关于吃个饭回来发现elementui里的tree控件没有lazy属性的介绍从而使我认为它不重要而最后却经过详细查询得知其是该需求的关键性要素便解决了这个问题这件事，我吸取了教训，官方文档固然标准，但也会lazy，有些属性并没有写上介绍，真是lazy啊！！！
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5113327&auto=0&height=66"></iframe>
+
+### 0120
+
+19号虽说解决了大方向，但小方向还有问题，又捣鼓了好久，3年前封装的东西连一行注释都无，着实难以维护
+
+### 0121
+
+终于解决了，el-tree的expandAll,expandDefaultKeys,lazy,load,手动添加空的children节点来保证能展开(null->[{}])，20号晚刚跟产品说不行，现在俺又行了！！！发张图纪念一下。
+
+<img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/address.png" width="300px"/>

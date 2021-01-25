@@ -58,3 +58,8 @@ HELLO 2021!
 终于解决了，el-tree的expandAll,expandDefaultKeys,lazy,load,手动添加空的children节点来保证能展开(null->[{}])，20号晚刚跟产品说不行，现在俺又行了！！！发张图纪念一下。
 
 <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/address.png" width="300px"/>
+
+### 0125
+
+年前最后一次发版，事最多，偏偏却得了感冒。。。希望能熬过去吧！
+

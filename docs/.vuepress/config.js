@@ -58,11 +58,11 @@ module.exports = {
         icon: 'reco-category',
         items: [
           { text: '简介', link: '/pages/folder1/introduce.md', icon: 'reco-faq' },
-          { text: '分享', link: '/pages/folder1/share.md', icon: 'reco-document' },
+          { text: '笔记', link: '/pages/readingNotes/ProfessionalJavaScript/什么是JavaScript.md', icon: 'reco-document' },
         ]
       },
-      { text: '浪记', link: '/pages/folder2/daily2021.md', icon: 'reco-suggestion' },
-      { text: '浪享', link: '/pages/folder3/share.md', icon: 'reco-three' },
+      { text: '日常', link: '/pages/folder2/daily2021.md', icon: 'reco-suggestion' },
+      { text: '分享', link: '/pages/folder3/share.md', icon: 'reco-three' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
       { text: 'Github', link: 'https://github.com/wavedanger', icon: 'reco-github' },
     ],
@@ -142,6 +142,17 @@ module.exports = {
           sidebarDepth: 1,
           children: [
             ['share.md', '福利向']
+          ]
+        }
+      ],
+      '/pages/readingNotes/': [
+        {
+          title: 'javaScript高级程序设计',
+          collapsable: false,
+          sidebarDepth: 1,
+          children: [
+            ['ProfessionalJavaScript/什么是JavaScript.md', '什么是JavaScript'],
+            ['ProfessionalJavaScript/HTML中的JavaScript.md', 'HTML中的JavaScript']
           ]
         }
       ]

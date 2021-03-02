@@ -44,7 +44,7 @@ tags:
 * [1loc](https://1loc.dev/) | 206 个只需单行代码就能实现的 JavaScript 实用程序。
 * [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | 只需要设置数字以及列和行的单位，然后就会为你生成一个 CSS 网格！可以通过在框内拖动来创建放置在网格内的 div。
 * [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet) | 即使是最有经验的 CSS 开发人员，也不会总是立即找到正确的类名，这很快会使你感到绝望。该工具为你提供一些最常见的 Web 组件的命名建议，帮助你避免在 BEM 的世界中迷路。
-
+* [vectorlogo](https://www.vectorlogo.zone/) | 技术语言svg图标库
 ## 图片
 * [coolbackgrounds](https://coolbackgrounds.io/) | 快速cool背景图片生成
 * [在线去背景remove.bg](https://www.remove.bg/) | 效果强大，识别人物准确率高

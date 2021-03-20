@@ -18,6 +18,7 @@ tags:
 * [FreeApi](https://www.free-api.com/) | 免费接口搬运工
 * [扩展迷](https://www.extfans.com/) | 谷歌扩展插件资源网
 * [LearnGitBranching](https://learngitbranching.js.org/?locale=zh_CN) | 可视化学习git
+* [web前端](http://www.css88.com/) | 各种前端类工具和技术文章
 
 ## 资源搜索
 * [大力盘搜索](https://www.dalipan.com/) | 大概率可搜索付费课程
@@ -32,6 +33,7 @@ tags:
 * [apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) | 在线录屏，只需下载小插件
 * [No Design](https://nodesign.dev/) | 为不懂设计的开发者提供福音，包括图标生成，免费图标库字体等
 * [ShowDoc](https://www.showdoc.cc/) | 一个非常适合IT团队的在线API文档、技术文档工具
+* [在线工具](http://tool.lu/) | 一个在线工具网站，包含大量在线工具
 
 ## 前端
 * [degraeve](https://www.degraeve.com/) | 国外web工具箱，包括ASCII生成器，调色板生成器
@@ -52,6 +54,7 @@ tags:
 * [在线ps|稿定设计](https://ps.gaoding.com/) | 国内版photopea，与上的区别是需登录
 * [bigjpg](https://bigjpg.com/) | AI人工智能图片放大
 * [base64-image](https://www.base64-image.de/) | 将图像转换为 Base64
+* [tinypng](https://tinypng.com/) | 一个在线图片压缩工具，可以批量使用
 
 ## 音乐
 * [audiomack](https://audiomack.com/) | 在线音乐库，只要有人上传就有得听

@@ -73,3 +73,5 @@ tags:
 * [topbook](https://topbook.cc/overview) | 高效生活视频书，换一种方式get生活技能
 * [wikihome](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) | 互联网上最值得信赖的指南网站
 
+## 趣味
+* [hackertyper](https://hackertyper.net) | 装逼利器，可上传指定文件，随意敲打输出可运行代码！

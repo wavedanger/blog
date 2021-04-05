@@ -51,6 +51,7 @@ tags:
 * [扫码登录的技术原理好像没那么难](https://mp.weixin.qq.com/s/dIjFzuJYvc7LI4RTBtcNsg)
 * [30张图讲解HTTP，再不懂请来打我！](https://mp.weixin.qq.com/s/T6lTEaLPZeSF2N_a7EcPcQ)
 * [8000字深度好文讲解 10 种跨域解决方案](https://mp.weixin.qq.com/s/qQSj-AtBiuA1u3d8Et3M1A)
+* [前端优秀实践不完全指南](https://juejin.cn/post/6932647134944886797)
 ### 工程化、模块化
 * [带你深度解锁Webpack系列(基础篇)](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 * [这些 Git 的使用场景是否也困扰过你](https://mp.weixin.qq.com/s/7eQ7nmvgVzlmG7OYBCFG-A)

@@ -92,3 +92,10 @@ HELLO 2021!
 ### 0401
 
 《无题》--佚名
+
+### 0413
+
+防抖与节流！技术蛋老师讲得不错啊！
+
+[防抖](https://www.bilibili.com/video/BV17b4y1X7yp?from=search&seid=1978425055497129434)
+[节流](https://www.bilibili.com/video/BV17b4y1X7yp?from=search&seid=1978425055497129434)

@@ -99,3 +99,13 @@ HELLO 2021!
 
 [防抖](https://www.bilibili.com/video/BV17b4y1X7yp?from=search&seid=1978425055497129434)
 [节流](https://www.bilibili.com/video/BV17b4y1X7yp?from=search&seid=1978425055497129434)
+
+### 0414
+
+::: tip
+git stash 不缓存untrack文件
+
+git stash -u 缓存untrack文件
+
+今天pull代码造成了冲突，想还原，而选了放弃untrack文件（以为git stash有缓存），等到git stash pop的时候已泪流满面，一天的代码加班还是还原了！！！，在此记录这次惨痛的教训
+:::

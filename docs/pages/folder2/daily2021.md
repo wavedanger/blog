@@ -109,3 +109,11 @@ git stash -u 缓存untrack文件
 
 今天pull代码造成了冲突，想还原，而选了放弃untrack文件（以为git stash有缓存），等到git stash pop的时候已泪流满面，一天的代码加班还是还原了！！！，在此记录这次惨痛的教训
 :::
+
+### 0420
+
+::: danger
+今天钻牛角尖了，有时及时求助于他人并不是一件坏事和难事！
+
+<img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/%E7%BB%9D%E4%BA%86.gif" width="100px"/>
+:::

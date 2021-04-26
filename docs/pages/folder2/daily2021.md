@@ -117,3 +117,10 @@ git stash -u 缓存untrack文件
 
 <img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/%E7%BB%9D%E4%BA%86.gif" width="100px"/>
 :::
+
+### 0426
+::: tip
+物是人非了，已经没有以前那种感觉了！
+
+<img src="https://gitee.com/wavedanger/blog-picgo/raw/master/img/qrcode_www.bilibili.com.png" width="100px"/>
+:::

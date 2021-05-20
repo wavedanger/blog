@@ -12,6 +12,10 @@ tags:
 ### 方向
 * [21 个建议帮助你成为一名成功的 Web 开发工程师](https://mp.weixin.qq.com/s/OkA2kvPOPm86_pxtquhE9Q)
 
+### 经验分享
+* [10年产品大佬分享敏捷开发模式，不看后悔系列！](https://mp.weixin.qq.com/s/qkWAuV_DBx14gDm-lbtoXQ)
+* [【经验分享】做前端两年感觉吃力怎么办？](https://mp.weixin.qq.com/s/QXCKpBIW_5FcsK4zYW67XA)
+
 ### 移动端
 * [关于移动端适配，你必须要知道的](https://juejin.im/post/5cddf289f265da038f77696c)
 * [拿到一份设计稿，我该如何进行移动端开发？](https://juejin.im/post/5d736747e51d4561ff66688c)
@@ -57,6 +61,7 @@ tags:
 * [带你深度解锁Webpack系列(基础篇)](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 * [这些 Git 的使用场景是否也困扰过你](https://mp.weixin.qq.com/s/7eQ7nmvgVzlmG7OYBCFG-A)
 * [Javascript 代码是如何被压缩的](https://mp.weixin.qq.com/s/xRnr2z6eEZ6HWMf4MtaEzQ)
+
 ### 调试
 * [很好用的 UI 调试技巧](https://mp.weixin.qq.com/s/gNmMOqVf-296BKIT39Lu2A)
 * [Chrome Devtools 高级调试指南，让你的开发速度加倍](https://mp.weixin.qq.com/s/xJJBzpJ94A_Tmo9L7wqstQ)

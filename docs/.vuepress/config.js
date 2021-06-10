@@ -47,7 +47,7 @@ module.exports = {
   themeConfig: {
     type: 'blog',//reco 主题类
     author: '卫兵',
-    authorAvatar: '/logo.png',//reco 右侧头像
+    authorAvatar: '/tang.gif',//reco 右侧头像
     lastUpdated: '更新时间',
     logo: '/logo.png',
     nav: [

@@ -141,5 +141,7 @@ git stash -u 缓存untrack文件
 ### 0613
 
 难得的一天空闲，工具那么多，该如何正确选择呢？
+上海龙之队的爽文般的逆袭真是精彩！心理素质MAX！
 
 [卫兵的语雀](https://hongwb.yuque.com/)
+[意料之外的胜利-上海龙之队](https://mp.weixin.qq.com/s/wB9iLaYcp0tvn8p3kUxWBA)

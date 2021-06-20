@@ -145,3 +145,7 @@ git stash -u 缓存untrack文件
 
 [卫兵的语雀](https://hongwb.yuque.com/)
 [意料之外的胜利-上海龙之队](https://mp.weixin.qq.com/s/wB9iLaYcp0tvn8p3kUxWBA)
+
+### 0620
+
+有些决定是不是应该提前了

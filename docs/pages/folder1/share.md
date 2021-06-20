@@ -63,6 +63,7 @@ tags:
 * [带你深度解锁Webpack系列(基础篇)](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 * [这些 Git 的使用场景是否也困扰过你](https://mp.weixin.qq.com/s/7eQ7nmvgVzlmG7OYBCFG-A)
 * [Javascript 代码是如何被压缩的](https://mp.weixin.qq.com/s/xRnr2z6eEZ6HWMf4MtaEzQ)
+* [我在工作中是如何使用 git 的](https://juejin.cn/post/6974184935804534815)
 
 ### 调试
 * [很好用的 UI 调试技巧](https://mp.weixin.qq.com/s/gNmMOqVf-296BKIT39Lu2A)
@@ -88,3 +89,4 @@ tags:
 
 ## 趣味
 * [几亿人都在玩的谷歌小恐龙游戏，全世界最高分是 99999？](https://mp.weixin.qq.com/s/zqhDiyzpZrVZepDlTpiMSg)
+* [三种前端实现VR全景看房的方案！说不定哪天就用得上！](https://juejin.cn/post/6973865268426571784)

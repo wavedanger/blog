@@ -52,6 +52,7 @@ tags:
 * [前端性能优化之雅虎35条军规](https://juejin.im/post/5b73ef38f265da281e048e51)
 * [「面试」45 道牛客网 JavaScript 经典题总结（8500字）](https://mp.weixin.qq.com/s/Q7fA1ppO16P4G96YiVUShw)
 * [一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://juejin.cn/post/6947841638118998029)
+* [8年开发，连登录接口都写这么烂...](https://mp.weixin.qq.com/s/1vK9Izlf71JLqXeFJAX6tA)
 ### 开发基础
 * [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc)
 * [前端需要了解的计算机网络知识](https://juejin.im/post/5e51febde51d4526c932b390)

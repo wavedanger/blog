@@ -14,6 +14,7 @@ tags:
 
 ### 经验分享
 * [10年产品大佬分享敏捷开发模式，不看后悔系列！](https://mp.weixin.qq.com/s/qkWAuV_DBx14gDm-lbtoXQ)
+* [淘宝的18岁，一部中国电商发展史](https://mp.weixin.qq.com/s/YGlxaXjwb7zc-OS8qwo-qQ)
 * [【经验分享】做前端两年感觉吃力怎么办？](https://mp.weixin.qq.com/s/QXCKpBIW_5FcsK4zYW67XA)
 * [程序员，你得选准跑路的时间！](https://mp.weixin.qq.com/s/ZOsk6JI3gyyhfs5U4KtlvA)
 

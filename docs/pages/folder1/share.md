@@ -17,6 +17,7 @@ tags:
 * [淘宝的18岁，一部中国电商发展史](https://mp.weixin.qq.com/s/YGlxaXjwb7zc-OS8qwo-qQ)
 * [【经验分享】做前端两年感觉吃力怎么办？](https://mp.weixin.qq.com/s/QXCKpBIW_5FcsK4zYW67XA)
 * [程序员，你得选准跑路的时间！](https://mp.weixin.qq.com/s/ZOsk6JI3gyyhfs5U4KtlvA)
+* [终于有人把用户画像的流程、方法讲明白了](https://mp.weixin.qq.com/s/dXSbhMlGwpTwe8sH6uMOwA)
 
 ### 移动端
 * [关于移动端适配，你必须要知道的](https://juejin.im/post/5cddf289f265da038f77696c)

@@ -55,6 +55,7 @@ tags:
 * [「面试」45 道牛客网 JavaScript 经典题总结（8500字）](https://mp.weixin.qq.com/s/Q7fA1ppO16P4G96YiVUShw)
 * [一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://juejin.cn/post/6947841638118998029)
 * [8年开发，连登录接口都写这么烂...](https://mp.weixin.qq.com/s/1vK9Izlf71JLqXeFJAX6tA)
+* [写给中高级前端关于性能优化的9大策略和6大指标 | 网易四年实践](https://juejin.cn/post/6981673766178783262)
 ### 开发基础
 * [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc)
 * [前端需要了解的计算机网络知识](https://juejin.im/post/5e51febde51d4526c932b390)
@@ -62,6 +63,7 @@ tags:
 * [30张图讲解HTTP，再不懂请来打我！](https://mp.weixin.qq.com/s/T6lTEaLPZeSF2N_a7EcPcQ)
 * [8000字深度好文讲解 10 种跨域解决方案](https://mp.weixin.qq.com/s/qQSj-AtBiuA1u3d8Et3M1A)
 * [前端优秀实践不完全指南](https://juejin.cn/post/6932647134944886797)
+* [轻松理解HTTP缓存策略](https://mp.weixin.qq.com/s/VgjPf1xsn-tMRKfwme9y4g)
 ### 工程化、模块化
 * [带你深度解锁Webpack系列(基础篇)](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 * [这些 Git 的使用场景是否也困扰过你](https://mp.weixin.qq.com/s/7eQ7nmvgVzlmG7OYBCFG-A)

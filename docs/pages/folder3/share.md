@@ -28,6 +28,7 @@ tags:
 * [罗马盘](https://luomapan.com/) | 基于百度网盘的多类资源搜索
 * [Magi](https://magi.com/) | 基于AI的搜索引擎，更为精准和拓展
 * [鸠摩搜索](https://www.jiumodiary.com/) | 为了更加便利的从不同的网站综合查找到论文学习资料, 古籍资料,不同电子商城的购买比价等的垂直搜索引擎
+* [trace.moe](https://trace.moe/) | 一款非常强大，并且还完全免费的找番剧神器
 
 ## 工具
 * [站长工具](https://tool.chinaz.com/map.aspx) | 多维度技术工具辅助

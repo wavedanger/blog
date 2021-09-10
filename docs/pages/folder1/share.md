@@ -34,6 +34,7 @@ tags:
 * [你不知道的CSS开发技巧](https://mp.weixin.qq.com/s/tl4YJDq-xfhdPaJV6O5pxw)
 * [前端程序员必须掌握之三角函数在前端动画中的应用](https://mp.weixin.qq.com/s/ZPgc9hR1-LEBwn3mnyNSww)
 * [CSS 布局的本质是什么](https://mp.weixin.qq.com/s/DpfBcz1oveAxWlrGfG3_tQ)
+* [【CSS】骨架屏 Skeleton 效果](https://juejin.cn/post/6915763034069663752)
 ### JavaScript
 * [这才是JavaScript的本质!](https://mp.weixin.qq.com/s/WeEi8W5nZFbOFASNM8Ky9A)
 * [你可能不知道的JS开发技巧](https://mp.weixin.qq.com/s/mD_McGSEK67KiOEXanIPxw)

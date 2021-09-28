@@ -49,6 +49,8 @@ tags:
 * [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | 只需要设置数字以及列和行的单位，然后就会为你生成一个 CSS 网格！可以通过在框内拖动来创建放置在网格内的 div。
 * [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet) | 即使是最有经验的 CSS 开发人员，也不会总是立即找到正确的类名，这很快会使你感到绝望。该工具为你提供一些最常见的 Web 组件的命名建议，帮助你避免在 BEM 的世界中迷路。
 * [vectorlogo](https://www.vectorlogo.zone/) | 技术语言svg图标库
+* [fontspace](https://www.fontspace.com/) | 免费字体(fontspace)
+* [中国风配色网站](http://zhongguose.com/) | 中国风配色网站
 ## 图片
 * [coolbackgrounds](https://coolbackgrounds.io/) | 快速cool背景图片生成
 * [在线去背景remove.bg](https://www.remove.bg/) | 效果强大，识别人物准确率高
@@ -57,6 +59,10 @@ tags:
 * [bigjpg](https://bigjpg.com/) | AI人工智能图片放大
 * [base64-image](https://www.base64-image.de/) | 将图像转换为 Base64
 * [tinypng](https://tinypng.com/) | 一个在线图片压缩工具，可以批量使用
+* [一键AI抠图](https://www.isheji.com/cutout/workbench?img_id=60c9b7284a9a3&u=1) | 一键AI抠图
+* [Wallhaven壁纸](https://wallhaven.cc) | 壁纸，壁纸网站收藏这一个就够了
+* [免费图片](https://www.pexels.com/zh-cn/) | 妈妈再也不用担心我写博客时找不到好看又免费的图片了
+
 
 ## 音乐
 * [audiomack](https://audiomack.com/) | 在线音乐库，只要有人上传就有得听

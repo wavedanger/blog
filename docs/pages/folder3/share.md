@@ -36,6 +36,10 @@ tags:
 * [No Design](https://nodesign.dev/) | 为不懂设计的开发者提供福音，包括图标生成，免费图标库字体等
 * [ShowDoc](https://www.showdoc.cc/) | 一个非常适合IT团队的在线API文档、技术文档工具
 * [在线工具](http://tool.lu/) | 一个在线工具网站，包含大量在线工具
+* [DevDocs](https://devdocs.io/) | Web 开发技术文档
+* [iHateRegex](https://ihateregex.io/) | 如果你讨厌正则，那么一定不要错过这个网站？(ˉ▽ˉ；)...
+* [Carbon](https://carbon.now.sh/) | 生成各种主题、各种语言的代码片段，并导出为图片或复制到其它平台
+* [readme.so](https://readme.so/) | 快捷生成标准 README
 
 ## 前端
 * [degraeve](https://www.degraeve.com/) | 国外web工具箱，包括ASCII生成器，调色板生成器
@@ -51,6 +55,9 @@ tags:
 * [vectorlogo](https://www.vectorlogo.zone/) | 技术语言svg图标库
 * [fontspace](https://www.fontspace.com/) | 免费字体(fontspace)
 * [中国风配色网站](http://zhongguose.com/) | 中国风配色网站
+* [Undraw](https://undraw.co/) | 免费的 SVG 插图
+* [Error 404](https://error404.fun/) | 404 页面素材
+
 ## 图片
 * [coolbackgrounds](https://coolbackgrounds.io/) | 快速cool背景图片生成
 * [在线去背景remove.bg](https://www.remove.bg/) | 效果强大，识别人物准确率高
@@ -60,6 +67,7 @@ tags:
 * [base64-image](https://www.base64-image.de/) | 将图像转换为 Base64
 * [tinypng](https://tinypng.com/) | 一个在线图片压缩工具，可以批量使用
 * [一键AI抠图](https://www.isheji.com/cutout/workbench?img_id=60c9b7284a9a3&u=1) | 一键AI抠图
+* [apowersoft](https://www.apowersoft.cn/image-watermark-remover) | 在线图片去水印
 * [Wallhaven壁纸](https://wallhaven.cc) | 壁纸，壁纸网站收藏这一个就够了
 * [免费图片](https://www.pexels.com/zh-cn/) | 妈妈再也不用担心我写博客时找不到好看又免费的图片了
 

@@ -57,7 +57,9 @@ tags:
 * [中国风配色网站](http://zhongguose.com/) | 中国风配色网站
 * [Undraw](https://undraw.co/) | 免费的 SVG 插图
 * [Error 404](https://error404.fun/) | 404 页面素材
-
+* [JavaScript Tips](https://www.jstips.co/zh_CN/) | 超多的 JavaScript 小技巧
+* [30SecondsOfCode](https://www.30secondsofcode.org/js/p/1) | 30 秒 JavaScript 代码满足你所有开发需求的简短代码片段 !
+* [GRID GARDEN](https://cssgridgarden.com/#zh-cn) | 总共 28 关,以游戏的方式,带你学习 grid 布局,非常的轻松,再也不用枯燥的死记硬背了~
 ## 图片
 * [coolbackgrounds](https://coolbackgrounds.io/) | 快速cool背景图片生成
 * [在线去背景remove.bg](https://www.remove.bg/) | 效果强大，识别人物准确率高
@@ -70,6 +72,8 @@ tags:
 * [apowersoft](https://www.apowersoft.cn/image-watermark-remover) | 在线图片去水印
 * [Wallhaven壁纸](https://wallhaven.cc) | 壁纸，壁纸网站收藏这一个就够了
 * [免费图片](https://www.pexels.com/zh-cn/) | 妈妈再也不用担心我写博客时找不到好看又免费的图片了
+* [无损放大图片](http://waifu2x.udp.jp/index.zh-CN.html) | 无损放大图片
+* [WallHaven](https://wallhaven.cc/) | 目前我认为最好的一个图片素材网站,不管是用来做壁纸还是做站点资源图片都是非常不错的!
 
 
 ## 音乐

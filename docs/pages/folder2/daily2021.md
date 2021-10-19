@@ -164,3 +164,15 @@ git stash -u 缓存untrack文件
 ### 0827
 
 哎，真的挺忙的，重构APP哪有那么容易啊
+
+## 2021九月
+
+APP重构的收尾，PDF打印，录音，html5plus yyds
+
+## 2021十月
+
+### 20211019
+
+一周年，我是否成为自己想要的那个人？
+
+![我的桌面](https://gitee.com/wavedanger/blog-picgo/raw/master/pdf/myDesktop.jpg)

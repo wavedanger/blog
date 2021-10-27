@@ -68,6 +68,7 @@ tags:
 * [前端优秀实践不完全指南](https://juejin.cn/post/6932647134944886797)
 * [轻松理解HTTP缓存策略](https://mp.weixin.qq.com/s/VgjPf1xsn-tMRKfwme9y4g)
 * [计算机网络的 89 个核心概念](https://mp.weixin.qq.com/s/R9CQCUqSblwms_Ex0Sn3LQ)
+* [就因为这三个知识点，我彻底学废了”正则表达式“](https://juejin.cn/post/7021672733213720613)
 
 ### 工程化、模块化
 * [带你深度解锁Webpack系列(基础篇)](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)

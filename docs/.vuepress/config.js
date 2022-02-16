@@ -131,7 +131,8 @@ module.exports = {
           sidebarDepth: 1,
           children: [
             ['daily2020.md', '星星点灯'],
-            ['daily2021.md', '自我驱动']
+            ['daily2021.md', '自我驱动'],
+            ['daily2022.md', '何去何从']
           ]
         }
       ],

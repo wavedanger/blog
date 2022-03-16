@@ -78,6 +78,7 @@ tags:
 
 ## 音乐
 * [audiomack](https://audiomack.com/) | 在线音乐库，只要有人上传就有得听
+* [MyFreeMp3](http://tools.liumingye.cn/music/?page=searchPage) | 在线音乐库，资源丰厚
 
 ## 视频
 * [南瓜电影](http://www.nangua5.com/) | 高清流畅影视，且看且珍惜

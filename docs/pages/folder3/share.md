@@ -30,8 +30,12 @@ tags:
 * [鸠摩搜索](https://www.jiumodiary.com/) | 为了更加便利的从不同的网站综合查找到论文学习资料, 古籍资料,不同电子商城的购买比价等的垂直搜索引擎
 * [trace.moe](https://trace.moe/) | 一款非常强大，并且还完全免费的找番剧神器
 * [CrxDL.COM](https://crxdl.com/) | 下载Chrome扩展插件Crx离线安装包
+* [HelloWindows.cn](https://hellowindows.cn/) | 精校 完整 极致 Windows系统下载仓储站
 ## 工具
 * [站长工具](https://tool.chinaz.com/map.aspx) | 多维度技术工具辅助
+* [Devtools](https://smalldev.tools/) | 开发者经常使用到的工具
+* [responsively](https://responsively.app/) | 非常方便的开发响应式网站，大幅提高前端开发的效率
+* [readme.so](https://readme.so/) | 该网站能够让你非常轻松的创建项目的README
 * [apowersoft](https://www.apowersoft.cn/free-online-screen-recorder) | 在线录屏，只需下载小插件
 * [No Design](https://nodesign.dev/) | 为不懂设计的开发者提供福音，包括图标生成，免费图标库字体等
 * [ShowDoc](https://www.showdoc.cc/) | 一个非常适合IT团队的在线API文档、技术文档工具

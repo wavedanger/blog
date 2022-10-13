@@ -126,7 +126,7 @@ module.exports = {
       ],
       '/pages/folder2/': [
         {
-          title: '浪记',
+          title: '记',
           collapsable: false,
           sidebarDepth: 1,
           children: [
@@ -138,7 +138,7 @@ module.exports = {
       ],
       '/pages/folder3/': [
         {
-          title: '浪享',
+          title: '享',
           collapsable: false,
           sidebarDepth: 1,
           children: [

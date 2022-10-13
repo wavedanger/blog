@@ -1,5 +1,5 @@
 ---
-title: 低级前端的心情日记
+title: 初级前端的心情日记
 date: 2021-01-06
 categories:
  - 卫兵

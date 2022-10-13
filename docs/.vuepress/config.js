@@ -14,7 +14,8 @@ module.exports = {
     }
   },
   //reco 主题
-  base: '/blog/',
+  // base: '/blog/',
+  base: '/',
   title: '卫兵',
   description: '前端 记录 快乐',
   head: [

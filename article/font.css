@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1898694_ryo9hie0izm.eot?t=1592757326693');
+  /* IE9 */
+  src: url('//at.alicdn.com/t/font_1898694_ryo9hie0izm.eot?t=1592757326693#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAN0AAsAAAAAB5wAAAMnAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCbII7ATYCJAMMCwgABCAFhG0HTxuaBsguMRUZ6fS0BiiydjpuVF+Mv50BPHkUD//tR7tvZtZUk+jpmxyIeKORSJaW0MmEpIlGaHQv4U+NuYlmUQ1dNJlYnHclkhZxrd6fNhIkjqs1TVIiSWrHl2VUiVRQPu5dLoezv18wPqxLwlZVyiQgIeWnIwqiEIMsFIKR/HtIn7YJlCZX0NILh9MuUCB3fcvpnuPnAiYY0P8Y9UVLJDFPYXh17CJOE2g0Sg56dvfSqqwqzEmBeK5kUlnN6JSG4lAv1FasLOI9pPr0Lv3AXfD9+G8z6klqMnPm+cPbvHLxa+A3+VVFwEPgT2cB1pGxDKIQDyptVxai2DK4RlW22JxdqwhpqmBVEfA0Sa31h0cSRC2zsBnMM9J0UXyHReL3ruCqCzOojRLPVNyx2O4eIa0IKP2hOO2e0WHg53jHQLxDDy1E10iiG+KS5B+HlbQixRmHe3xa6r4S1ukXwva5NOhLhJc5HJPLd7SHSXZ0f0zg7MyK5O58Pyr7bz5Ta961jp35nKmt/+UiltHD23r+0984c/b//rpgPDhEl8m7yx3qrL1LM2pca377BgbhNjXtuhMA+yS6H+L+mK86wYkOb8KXzV/95n6ijgfgiMe63Lgxc6SNh/WnOwaTwSVVuxUSUUE1P2YlBFLJz8EvoAg+2BJZtLP3X99UwM+ej3birRQIk6deguH/BH7HpqIJTX0uCs/hGY7sYKAlQTmC3KsvhU5fw1U9N5oI9XoSSOqMQFZvGlmwy1CjyTbUqncIjZYY1jfpUrMgSgMWjQiEdnuQtPoGWbsXZMECqNHrF2q1R4ZGF9G1Y5PZeLJ+Spgw5pB+gMq8E7aR18PiBsrSJJQWBvgOUqGCcKZU55P36JCmmFO8ynNmAYK8hTtyHhrjIZDvY8bHPeZQP1Glqq50nHlbWXeKoARDORDzAWRlPEd4ndl64fMNSCoZCWooq7J3IFJQ3QMNJXUH5L3MdSq7lUvqXknnGpgAUohnAT2xIGPFPFCpHtaHMuxYZkAkqFMx7VJdZcfLK+wL5KIK8/AcKXIUTS84oUgoYzDffVdOOsgwWKArer7MEicrFQA=') format('woff2'), url('//at.alicdn.com/t/font_1898694_ryo9hie0izm.woff?t=1592757326693') format('woff'), url('//at.alicdn.com/t/font_1898694_ryo9hie0izm.ttf?t=1592757326693') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1898694_ryo9hie0izm.svg?t=1592757326693#iconfont') format('svg');
+  /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-star_filled:before {
+  content: "\e736";
+}
+
+.icon-xingxingpingfenshoucang:before {
+  content: "\e619";
+}
